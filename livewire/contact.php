@@ -107,8 +107,8 @@
 <div class="container">
     <div class="contact-card">
         <h2 style="font-weight:bold; margin-bottom:20px;">CONTACT US</h2>
-        <img src="images/hotel.jpg" alt="Hotel" width="300" height="300" />
-        <p><b>Contact No:</b> +639999999999</p>
+        <img src="assets/images/Suites.png" alt="Hotel" width="350" height="300" />
+         <p><b>Call Us:</b><br>+639083422122<br>+639123456789</p>
         <p><b>Email:</b> rooms@hotel.com</p>
     </div>
 </div>
