@@ -113,7 +113,6 @@ $result = mysqli_query($conn, "SELECT description FROM amenities ORDER BY id DES
                 </div>
             <?php } ?>
         <?php } else { ?>
-            <p>No amenities found.</p>
         <?php } ?>
     </div>
 </div>
