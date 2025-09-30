@@ -166,7 +166,7 @@
             <input type="date" name="checkout" class="form-control" required>
         </div>
         <div class="mb-3">
-            <label>Optional Add-ons:</label>
+            <label>Add-ons (Optional):</label>
             <div>
             <?php
             $addons = mysqli_query($conn, "SELECT * FROM addons");
