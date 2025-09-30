@@ -92,7 +92,7 @@
         <!-- Text -->
         <div style="flex:1; min-width:300px; max-width:600px; text-align:justify;">
             <p style="font-size:20px; line-height:1.7;">
-                <b>Livewire Planet Suites</b>, in General Santos City offers family rooms with air-conditioning, private bathrooms, and free toiletries. Each room includes a work desk, TV, and tiled floors.
+                <b>Livewire Planet Suites</b>, in Corner Santos Street, General Santos City offers family rooms with air-conditioning, private bathrooms, and free toiletries. Each room includes a work desk, TV, and tiled floors.
             </p>
             <p style="font-size:20px; line-height:1.7;">
                 Guests can relax on the terrace or balcony with city views. The hotel features a ground-floor unit on a quiet street, providing a peaceful environment.
